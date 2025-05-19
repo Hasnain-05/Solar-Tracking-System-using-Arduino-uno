@@ -1,5 +1,3 @@
-
-
 #include <Servo.h>
 #define LDR1 A0
 #define LDR2 A1
